@@ -4,7 +4,7 @@ export default function Resume() {
     return (
         <div className="py-[100px] px-[20px] sm:px-[30px] lg:px-0">
             <div className="container-sm">
-                <h2 className="text-center text-[38px] font-bold">What I Do</h2>
+                <h2 className="text-center text-[38px] font-bold">My Resume</h2>
                 <TitleLine></TitleLine>
 
                 <div className="flex md:flex-row flex-col gap-12 items-start justify-between">

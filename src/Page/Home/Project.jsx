@@ -11,7 +11,7 @@ export default function Project() {
     return (
         <div className="py-[100px]">
             <div className="container-sm px-[20px] md:px-0">
-                <h2 className="text-center text-[38px] font-bold">What I Do</h2>
+                <h2 className="text-center text-[38px] font-bold">Projects</h2>
                 <TitleLine></TitleLine>
                 <div className="flex gap-5 lg:flex-row flex-col">
                     <div className="flex flex-col gap-5">

@@ -4,7 +4,7 @@ export default function Experience() {
     return (
         <div className="py-[80px] px-[20px] md:px-0">
             <div className="container-sm text-[#aaaaaa]">
-                <h2 className="text-center text-[38px] font-bold text-white">What I Do</h2>
+                <h2 className="text-center text-[38px] font-bold text-white">Experience</h2>
                 <TitleLine></TitleLine>
 
                 {/* single expreance */}
