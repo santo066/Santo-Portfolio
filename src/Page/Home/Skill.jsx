@@ -15,12 +15,12 @@ export default function Skill() {
                     <div className="bg-[#4e4e4e] sm:h-[170px] h-[140px] sm:w-[170px] w-[140px] rounded-full flex items-center justify-center">
                         <div
                             className="radial-progress text-[#cf1f1f] relative z-0"
-                            style={{ "--value": "60", "--size": "100%", "--thickness": "10px" }}
-                            aria-valuenow={70} role="progressbar"
+                            style={{ "--value": "95", "--size": "100%", "--thickness": "10px" }}
+                            aria-valuenow={95} role="progressbar"
                         >
                             <div className="bg-[#171a1d] sm:h-[152px] p-2 sm:p-0 h-[122px] sm:w-[152px] w-[122px] rounded-full flex flex-col items-center justify-center gap-2 relative z-10">
-                                <span className="block text-center text-white sm:text-[18px]/[100%] text-[16px]/[100%]">javascript react</span>
-                                <span className="block text-center text-white sm:text-2xl text-[18px] font-bold"> 70%</span>
+                                <span className="block text-center text-white sm:text-[18px]/[100%] text-[16px]/[100%]">HTML</span>
+                                <span className="block text-center text-white sm:text-2xl text-[18px] font-bold"> 95%</span>
                             </div>
                         </div>
                     </div>
