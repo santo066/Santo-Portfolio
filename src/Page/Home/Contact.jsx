@@ -5,6 +5,7 @@ export default function Contact() {
     return (
         <div className="py-[100px] bg-center bg-cover bg-fixed relative"
             style={{ backgroundImage: `url(${bg_img})` }}
+            id="contact_section"
         >
             <div className="h-[100px] w-[100%] absolute top-0 left-0 bg-linear-to-t from-transparent to-[#171a1d]"></div>
             <div className="h-[100px] w-[100%] absolute bottom-0 left-0 bg-linear-to-t from-[#171a1d] to-transparent"></div>

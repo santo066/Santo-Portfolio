@@ -8,7 +8,7 @@ import { FaUnlockAlt } from "react-icons/fa";
 
 export default function WhatIDo() {
     return (
-        <div className="md:py-[100px] px-[20px] sm:px-0">
+        <div className="md:py-[100px] px-[20px] sm:px-0" id="what_i_do">
             <div className="container-sm">
                 <h2 className="text-center text-[38px] font-bold">What I Do</h2>
                 <TitleLine></TitleLine>

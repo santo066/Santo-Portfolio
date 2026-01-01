@@ -2,7 +2,7 @@ import TitleLine from "../Include/TitleLine";
 
 export default function Resume() {
     return (
-        <div className="py-[100px] px-[20px] sm:px-[30px] lg:px-0">
+        <div className="py-[100px] px-[20px] sm:px-[30px] lg:px-0" id="resume_section">
             <div className="container-sm">
                 <h2 className="text-center text-[38px] font-bold">My Resume</h2>
                 <TitleLine></TitleLine>
@@ -52,7 +52,7 @@ export default function Resume() {
                                 <div className="w-[40px] h-[40px] rounded-full bg-[#cf1f1f] flex items-center justify-center"><span>2</span></div>
                                 <div><span>2018 - 2022</span></div>
                             </div>
-                            <h4 className="mb-2 font-bold text-2xl/[100%]">Diploma in Computer Science (cgpa:3.81)</h4>
+                            <h4 className="mb-2 font-bold text-2xl/[100%]">Diploma in Computer Science</h4>
                             <span className="text-[#cf1f1f] ">Grassroot college of technology</span>
                             <p className="mt-4 text-[18px]/[150%] text-[#aaaaaa] hidden">From here I learned front end development, back end development html5, css3, PHP, Laravel Framework, bootstrap, google scarching, etc</p>
                         </div>
@@ -61,7 +61,7 @@ export default function Resume() {
                                 <div className="w-[40px] h-[40px] rounded-full bg-[#cf1f1f] flex items-center justify-center"><span>3</span></div>
                                 <div><span>2012 - 2018</span></div>
                             </div>
-                            <h4 className="mb-2 font-bold text-2xl/[100%]">SSC in science (cgpa:3.93)</h4>
+                            <h4 className="mb-2 font-bold text-2xl/[100%]">SSC in Science</h4>
                             <span className="text-[#cf1f1f] ">Kanaipur High School</span>
                             <p className="mt-4 text-[18px]/[150%] text-[#aaaaaa] hidden">From here I learned adobe photoshop, adobe illustrator,figma design,UI-UX etc</p>
                         </div>

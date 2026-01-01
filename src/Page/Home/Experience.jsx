@@ -2,7 +2,7 @@ import TitleLine from "../Include/TitleLine";
 
 export default function Experience() {
     return (
-        <div className="py-[80px] px-[20px] md:px-0">
+        <div className="py-[80px] px-[20px] md:px-0" id="experience_section">
             <div className="container-sm text-[#aaaaaa]">
                 <h2 className="text-center text-[38px] font-bold text-white">Experience</h2>
                 <TitleLine></TitleLine>

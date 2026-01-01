@@ -2,7 +2,7 @@ import TitleLine from "../Include/TitleLine";
 
 export default function About() {
     return (
-        <div className="sm:py-[100px] py-[60px] px-5 bg-[#171a1d]">
+        <div className="sm:py-[100px] py-[60px] px-5 bg-[#171a1d]" id="about_section">
             <div className="max-w-[800px] mx-auto text-center">
                 <h4 className="md:text-[32px]/[100%] text-[38px]/[100%] font-bold mb-5">About Me</h4>
                 <TitleLine></TitleLine>
