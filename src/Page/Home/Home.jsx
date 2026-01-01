@@ -33,13 +33,13 @@ export default function Home() {
             <Counter></Counter>
             <Contact></Contact>
             <Footer></Footer>
-            <div className="fixed left-7 top-[50%] flex-col gap-5 translate-y-[-50%] lg:flex hidden">
+            <div className="fixed left-7 items-center top-[50%] flex-col gap-5 translate-y-[-50%] lg:flex hidden">
                 <div className="flex flex-col gap-2">
                     <Link className="block text-[18px] text-[#cf1f1f] cursor-pointer"><FaFacebook /></Link>
                     <Link className="block text-[18px] text-[#cf1f1f] cursor-pointer"><FaLinkedin /></Link>
                     <Link className="block text-[18px] text-[#cf1f1f] cursor-pointer"><FaGithub /></Link>
                 </div>
-                <span className="block rotate-[-90deg] h-[80px] text-[#747474e7]">Follow Me</span>
+                <span className="block mt-4 rotate-[-90deg]  text-[#747474e7]">Follow Me</span>
             </div>
         </div>
     )

@@ -102,7 +102,7 @@ export default function Header() {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn">Contact Me</a>
+                    <a href="#" className="py-2.5 px-5 border rounded hover:bg-white duration-700 hover:text-black">Contact Me</a>
                 </div>
             </div>
         </div>

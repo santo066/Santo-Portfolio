@@ -85,12 +85,17 @@ body {
   height: auto;
 }
 
+@media only screen and (max-width: 768px) {
+  .swiper {
+    width: 600px;
+    height: auto;
+  }
+}
 @media only screen and (max-width: 600px) {
   .swiper {
     width: 100%;
     height: auto;
   }
-
 }
 
 .swiper-slide {
