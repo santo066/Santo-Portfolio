@@ -2,7 +2,7 @@ import TitleLine from "../Include/TitleLine";
 
 export default function Resume() {
     return (
-        <div className="py-[100px] px-[20px] sm:px-[30px] lg:px-0" id="resume_section">
+        <div className="pb-[100px] px-[20px] sm:px-[30px] lg:px-0" id="resume_section">
             <div className="container-sm">
                 <h2 className="text-center text-[38px] font-bold">My Resume</h2>
                 <TitleLine></TitleLine>

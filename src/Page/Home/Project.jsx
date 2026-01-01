@@ -10,7 +10,7 @@ import ProjectSlider from "./ProjectSlider";
 
 export default function Project() {
     return (
-        <div className="py-[100px]" id="projects_section">
+        <div className="md:py-[60px] py-[40px]" id="projects_section">
             <div className="container-sm px-[20px] md:px-0">
                 <h2 className="text-center text-[38px] font-bold">Projects</h2>
                 <TitleLine></TitleLine>
