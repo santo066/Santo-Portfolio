@@ -67,7 +67,7 @@ export default function ProjectSlider() {
                             <a href="https://procus-master-react-two.vercel.app/" target="_blank" rel="noopener noreferrer" className='4'>
                                 <h4 className='text-2xl md:font-bold font-normal mb-2.5 md:text-4xl underline hover:text-[#cf1f1f] transition-all duration-500'>Frontend Project</h4>
                             </a>
-                            <p className='md:text-[18px]/[115%] text-[16px]/[115%] font-normal'>This project is a responsive and visually clean frontend application developed with React.js and Tailwind CSS. It features modular components, smooth navigation, and consistent design patterns. The UI is optimized for mobile, tablet, and desktop devices, ensuring accessibility and performance while maintaining a modern look and feel.</p>
+                            <p className='md:text-[18px]/[115%] text-[16px]/[115%] font-normal'>A modern full-stack web application built using React.js and Tailwind CSS for the frontend, along with Node.js, Express.js, and MongoDB for the backend. The application supports dynamic data flow through RESTful APIs, efficient database operations, and clean component-based architecture. The project emphasizes scalability, performance optimization, secure data management, and a responsive user experience across all devices.</p>
                         </div>
                     </div>
                 </SwiperSlide>

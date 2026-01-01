@@ -142,7 +142,7 @@ export default function Header() {
                             }
                         </ul>
                     </div>
-                    <Link className="cursor-pointer"><img src={logo} alt="" /></Link>
+                    <Link className="cursor-pointer" to={'/'}><img src={logo} alt="" /></Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1 flex gap-[20px]">
